@@ -1,2 +1,2 @@
-# -st-And-2nd-Assignment
+# 1st-And-2nd-Assignment
 Introduction To Python Programming
